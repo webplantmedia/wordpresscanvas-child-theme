@@ -1,0 +1,14 @@
+/*
+Theme Name: WordPress Canvas Child Theme
+Theme URI: http://wordpresscanvas.com
+Author: Chris Baldelomar
+Author URI: http://webplantmedia.com/
+Description: WordPress Canvas Child Theme allows you to customize your WordPress Canvas theme and still receive updates.
+Template: wordpresscanvas
+Version: 1.1
+*/
+
+@import url("../wordpresscanvas/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
